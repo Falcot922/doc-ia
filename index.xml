@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Documentation IA</title>
+      <link>https://falcot922.github.io/doc-ia</link>
+      <description>Les dernières 10 notes on Documentation IA</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Documentation IA</title>
+    <link>https://falcot922.github.io/doc-ia/</link>
+    <guid>https://falcot922.github.io/doc-ia/</guid>
+    <description><![CDATA[ Documentation technique sur l’ingénierie en intelligence artificielle. Chaque fiche traite une notion et a été relue avant publication. ]]></description>
+    <pubDate>Tue, 13 Oct 2026 08:36:50 GMT</pubDate>
+  </item><item>
+    <title>Accumulation de gradients</title>
+    <link>https://falcot922.github.io/doc-ia/Fine-tuning-de-LLM/Accumulation-de-gradients</link>
+    <guid>https://falcot922.github.io/doc-ia/Fine-tuning-de-LLM/Accumulation-de-gradients</guid>
+    <description><![CDATA[ Accumulation de gradients Définition L’accumulation de gradients (gradient accumulation) consiste à additionner les gradients de plusieurs petits lots consécutifs avant d’effectuer une seule mise à jour des poids. ]]></description>
+    <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Fine-tuning de LLM</title>
+    <link>https://falcot922.github.io/doc-ia/Fine-tuning-de-LLM/Fine-tuning-de-LLM</link>
+    <guid>https://falcot922.github.io/doc-ia/Fine-tuning-de-LLM/Fine-tuning-de-LLM</guid>
+    <description><![CDATA[ Fine-tuning de LLM Périmètre Adaptation supervisée d’un grand modèle de langage pré-entraîné avec des ressources mémoire limitées : coût mémoire de l’entraînement, formats numériques 16 bits, LoRA et QLoRA, chargement et préparation des données, entraînement avec la bibliothèque TRL, évaluation (ROU... ]]></description>
+    <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Mini-lots et gradient stochastique</title>
+    <link>https://falcot922.github.io/doc-ia/Mod%C3%A8les-de-langage/Mini-lots-et-gradient-stochastique</link>
+    <guid>https://falcot922.github.io/doc-ia/Mod%C3%A8les-de-langage/Mini-lots-et-gradient-stochastique</guid>
+    <description><![CDATA[ Mini-lots et gradient stochastique Définition Un mini-lot (mini-batch) est un petit sous-ensemble d’exemples tirés du jeu d’entraînement. ]]></description>
+    <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Modèles de langage</title>
+    <link>https://falcot922.github.io/doc-ia/Mod%C3%A8les-de-langage/Mod%C3%A8les-de-langage</link>
+    <guid>https://falcot922.github.io/doc-ia/Mod%C3%A8les-de-langage/Mod%C3%A8les-de-langage</guid>
+    <description><![CDATA[ Modèles de langage Périmètre Modélisation de la distribution du prochain jeton (token) étant donné un contexte, avec des modèles au niveau caractère : comptage (bigramme), réseau de neurones à une couche, perceptron multicouche à contexte fixe. ]]></description>
+    <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Architecture d&#039;un CNN</title>
+    <link>https://falcot922.github.io/doc-ia/R%C3%A9seaux-convolutifs/Architecture-d'un-CNN</link>
+    <guid>https://falcot922.github.io/doc-ia/R%C3%A9seaux-convolutifs/Architecture-d'un-CNN</guid>
+    <description><![CDATA[ Architecture d’un CNN Définition Un réseau de neurones convolutif (convolutional neural network, CNN) enchaîne des blocs de Convolution, de Fonction d’activation et de Pooling, suivis d’une tête de classification qui transforme les cartes obtenues en scores de classes. ]]></description>
+    <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Boucle d&#039;entraînement</title>
+    <link>https://falcot922.github.io/doc-ia/R%C3%A9seaux-convolutifs/Boucle-d'entra%C3%AEnement</link>
+    <guid>https://falcot922.github.io/doc-ia/R%C3%A9seaux-convolutifs/Boucle-d'entra%C3%AEnement</guid>
+    <description><![CDATA[ Boucle d’entraînement Définition La boucle d’entraînement (training loop) est la séquence répétée à chaque lot (batch) qui ajuste les poids d’un réseau : propagation avant, calcul de la perte, remise à zéro des gradients, rétropropagation, mise à jour des poids. ]]></description>
+    <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Data augmentation</title>
+    <link>https://falcot922.github.io/doc-ia/R%C3%A9seaux-convolutifs/Data-augmentation</link>
+    <guid>https://falcot922.github.io/doc-ia/R%C3%A9seaux-convolutifs/Data-augmentation</guid>
+    <description><![CDATA[ Data augmentation Définition L’augmentation de données (data augmentation) consiste à modifier aléatoirement chaque échantillon d’entraînement à chaque fois qu’il est utilisé (recadrage, retournement, rotation, etc.), afin que le modèle ne voie jamais deux fois exactement la même image. ]]></description>
+    <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Dataset et DataLoader</title>
+    <link>https://falcot922.github.io/doc-ia/R%C3%A9seaux-convolutifs/Dataset-et-DataLoader</link>
+    <guid>https://falcot922.github.io/doc-ia/R%C3%A9seaux-convolutifs/Dataset-et-DataLoader</guid>
+    <description><![CDATA[ Dataset et DataLoader Définition Dans PyTorch, un Dataset est un objet qui fournit un échantillon à partir de son indice ; un DataLoader (chargeur de données) enveloppe un Dataset et produit des lots (batches) d’échantillons, mélangés et préparés éventuellement en parallèle. ]]></description>
+    <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Descente de gradient et rétropropagation</title>
+    <link>https://falcot922.github.io/doc-ia/R%C3%A9seaux-convolutifs/Descente-de-gradient-et-r%C3%A9tropropagation</link>
+    <guid>https://falcot922.github.io/doc-ia/R%C3%A9seaux-convolutifs/Descente-de-gradient-et-r%C3%A9tropropagation</guid>
+    <description><![CDATA[ Descente de gradient et rétropropagation Définition La descente de gradient (gradient descent) est une méthode d’optimisation qui modifie itérativement les paramètres d’un modèle dans la direction opposée au gradient de la fonction de perte. ]]></description>
+    <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
