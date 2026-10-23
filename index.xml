@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Documentation IA</title>
+      <link>https://falcot922.github.io/doc-ia</link>
+      <description>Les dernières 10 notes on Documentation IA</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Documentation IA</title>
+    <link>https://falcot922.github.io/doc-ia/</link>
+    <guid>https://falcot922.github.io/doc-ia/</guid>
+    <description><![CDATA[ Documentation technique sur l’ingénierie en intelligence artificielle. Chaque fiche traite une notion et a été relue avant publication. ]]></description>
+    <pubDate>Fri, 23 Oct 2026 19:10:22 GMT</pubDate>
+  </item><item>
+    <title>Réseaux convolutifs</title>
+    <link>https://falcot922.github.io/doc-ia/R%C3%A9seaux-convolutifs/R%C3%A9seaux-convolutifs</link>
+    <guid>https://falcot922.github.io/doc-ia/R%C3%A9seaux-convolutifs/R%C3%A9seaux-convolutifs</guid>
+    <description><![CDATA[ Réseaux convolutifs Périmètre Réseaux de neurones convolutifs (CNN) pour la classification d’images avec PyTorch : chargement et augmentation des données, couches (convolution, activation, pooling), conception d’architecture, entraînement, évaluation, réutilisation de modèles pré-entraînés et inspec... ]]></description>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Fine-tuning de LLM</title>
+    <link>https://falcot922.github.io/doc-ia/Fine-tuning-de-LLM/Fine-tuning-de-LLM</link>
+    <guid>https://falcot922.github.io/doc-ia/Fine-tuning-de-LLM/Fine-tuning-de-LLM</guid>
+    <description><![CDATA[ Fine-tuning de LLM Périmètre Adaptation supervisée d’un grand modèle de langage pré-entraîné avec des ressources mémoire limitées : coût mémoire de l’entraînement, formats numériques 16 bits, LoRA et QLoRA, chargement et préparation des données, entraînement avec la bibliothèque TRL, évaluation (ROU... ]]></description>
+    <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Modèles de langage</title>
+    <link>https://falcot922.github.io/doc-ia/Mod%C3%A8les-de-langage/Mod%C3%A8les-de-langage</link>
+    <guid>https://falcot922.github.io/doc-ia/Mod%C3%A8les-de-langage/Mod%C3%A8les-de-langage</guid>
+    <description><![CDATA[ Modèles de langage Périmètre Modélisation de la distribution du prochain jeton (token) étant donné un contexte, avec des modèles au niveau caractère : comptage (bigramme), réseau de neurones à une couche, perceptron multicouche à contexte fixe. ]]></description>
+    <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Accumulation de gradients</title>
+    <link>https://falcot922.github.io/doc-ia/Fine-tuning-de-LLM/Accumulation-de-gradients</link>
+    <guid>https://falcot922.github.io/doc-ia/Fine-tuning-de-LLM/Accumulation-de-gradients</guid>
+    <description><![CDATA[ Accumulation de gradients Définition L’accumulation de gradients (gradient accumulation) consiste à additionner les gradients de plusieurs petits lots consécutifs avant d’effectuer une seule mise à jour des poids. ]]></description>
+    <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Empreinte mémoire de l&#039;entraînement</title>
+    <link>https://falcot922.github.io/doc-ia/Fine-tuning-de-LLM/Empreinte-m%C3%A9moire-de-l'entra%C3%AEnement</link>
+    <guid>https://falcot922.github.io/doc-ia/Fine-tuning-de-LLM/Empreinte-m%C3%A9moire-de-l'entra%C3%AEnement</guid>
+    <description><![CDATA[ Empreinte mémoire de l’entraînement Définition L’empreinte mémoire de l’entraînement (training memory footprint) est la quantité de mémoire d’accélérateur (VRAM, la mémoire du GPU) nécessaire pour entraîner un modèle. ]]></description>
+    <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Formats bfloat16 et float16</title>
+    <link>https://falcot922.github.io/doc-ia/Fine-tuning-de-LLM/Formats-bfloat16-et-float16</link>
+    <guid>https://falcot922.github.io/doc-ia/Fine-tuning-de-LLM/Formats-bfloat16-et-float16</guid>
+    <description><![CDATA[ Formats bfloat16 et float16 Définition bfloat16 (brain floating point, bf16) et float16 (half precision, fp16) sont deux formats de nombres à virgule flottante sur 16 bits. ]]></description>
+    <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Mini-lots et gradient stochastique</title>
+    <link>https://falcot922.github.io/doc-ia/Mod%C3%A8les-de-langage/Mini-lots-et-gradient-stochastique</link>
+    <guid>https://falcot922.github.io/doc-ia/Mod%C3%A8les-de-langage/Mini-lots-et-gradient-stochastique</guid>
+    <description><![CDATA[ Mini-lots et gradient stochastique Définition Un mini-lot (mini-batch) est un petit sous-ensemble d’exemples tirés du jeu d’entraînement. ]]></description>
+    <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Modèle de langage</title>
+    <link>https://falcot922.github.io/doc-ia/Mod%C3%A8les-de-langage/Mod%C3%A8le-de-langage</link>
+    <guid>https://falcot922.github.io/doc-ia/Mod%C3%A8les-de-langage/Mod%C3%A8le-de-langage</guid>
+    <description><![CDATA[ Modèle de langage Définition Un modèle de langage (language model) est un modèle probabiliste qui attribue une probabilité à une séquence de symboles, ou, de façon équivalente, estime la distribution de probabilité du symbole suivant (next-token prediction) étant donné les symboles précédents, appel... ]]></description>
+    <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Softmax et logits</title>
+    <link>https://falcot922.github.io/doc-ia/Mod%C3%A8les-de-langage/Softmax-et-logits</link>
+    <guid>https://falcot922.github.io/doc-ia/Mod%C3%A8les-de-langage/Softmax-et-logits</guid>
+    <description><![CDATA[ Softmax et logits Définition Les logits sont les scores bruts, réels et de somme quelconque, produits par la dernière couche d’un réseau de classification, un par classe. ]]></description>
+    <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
